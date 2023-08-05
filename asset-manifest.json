@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-images/static/css/main.fbb16491.css",
+    "main.js": "/goit-react-hw-04-images/static/js/main.5fae5254.js",
+    "static/media/1647652882_34-amiel-club-p-kartinki-svetlii-fon-36.jpg": "/goit-react-hw-04-images/static/media/1647652882_34-amiel-club-p-kartinki-svetlii-fon-36.6145f1fee69093180d6a.jpg",
+    "index.html": "/goit-react-hw-04-images/index.html",
+    "main.fbb16491.css.map": "/goit-react-hw-04-images/static/css/main.fbb16491.css.map",
+    "main.5fae5254.js.map": "/goit-react-hw-04-images/static/js/main.5fae5254.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbb16491.css",
+    "static/js/main.5fae5254.js"
+  ]
+}
